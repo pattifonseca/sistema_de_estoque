@@ -1,0 +1,1 @@
+Sistema de gerenciamento de estoque desenvolvido em Python, com funcionalidades de cadastro, consulta, listagem, atualização de produtos, controle de vendas e geração de relatórios financeiros. Utiliza listas, dicionários, funções, estruturas condicionais e tratamento de exceções
